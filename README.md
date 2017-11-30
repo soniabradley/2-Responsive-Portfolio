@@ -26,13 +26,13 @@ Use Myers Reset for reset.css file.
 After all 3 HTML Forms are complete, start adding links for stylesheets in the index.html.  
 
 Be sure to list reset.css, then style.css
-i.e. 													<link rel="stylesheet" type="text/css" 				href=""> href="assets/css/reset.css"
+i.e. 													
+	<link rel="stylesheet" type="text/css" 				
+	href=""> href="assets/css/reset.css"
 
-	then <link rel="stylesheet" type="text/css" href=""> href="asssets/css/style.css"
+then <link rel="stylesheet" type="text/css" href=""> 				 	 href="asssets/css/style.css"
 
-so that reset.css may be overwritten by style.css
-
-Insert stylesheets to all 3 HTMl Forms
+Insert both stylesheets in all 3 HTMl Files
 
 
 
